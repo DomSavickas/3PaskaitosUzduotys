@@ -3,8 +3,8 @@ import math
 class first:
     def get_input(self):
         try:
-            a = int(input("Įveskite pirmają kraštinę prie stataus kampo:"))
-            b = int(input("Įveskite antrają kraštinę prie stataus kampo:"))
+            a = int(input("Įveskite pirmają kraštinę prie stataus kampo: "))
+            b = int(input("Įveskite antrają kraštinę prie stataus kampo: "))
             self.theorem_calculation(a, b)
         except: print("Įveskite skaičių!")
     def theorem_calculation(self, a, b):

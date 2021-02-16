@@ -1,4 +1,4 @@
-# TODO 1. Write a program to calculate the Pythagorean Theorem. The Pythagorean theorem must be computed in a function. The required values must be entered by the user. Write data validation exceptions.
+# TODO 1. Write a program to calculate the Pythagorean Theorem. The Pythagorean theorem must be computed in a function. The required values must be entered by the user. Write data validation exceptions. +
 # TODO 2. Write a program to calculate the body mass index. The body mass index must be calculated in the function. Remember to check the correctness of the parameters. The required values must be entered by the user. Write data validation exceptions.
 # TODO 3. Write a function that can accept two parameters: the first is a number and the second is a list of numbers. The function must return: the list average, the maximum and the minimum number, the number of digits in the list smaller and larger than the first parameter.
 # TODO 4. Write a decorator for the first assignment function that would multiply all values returned by two and print them.
